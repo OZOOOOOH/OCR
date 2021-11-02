@@ -1,7 +1,6 @@
 asgiref==3.4.1
 certifi==2021.10.8
 Django==3.2.8
-image==1.5.33
 numpy==1.21.3
 opencv-python==4.5.4.58
 Pillow==8.4.0
